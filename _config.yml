@@ -1,4 +1,4 @@
 name: Montessori
 markdown: redcarpet
 pygments: true
-url: "dpac56.github.io/jekyllblog"
+baseurl: /jekyllblog
