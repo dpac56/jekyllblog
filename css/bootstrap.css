@@ -4370,7 +4370,7 @@ a.list-group-item.active > .badge,
   margin-top: 25px;
   color: white;
   background-color: #eee;
-  background-image: url(https://github.com/dpac56/jekyllblog/blob/gh-pages/assets/coffee.jpg);
+  background-image: url(https://raw.githubusercontent.com/dpac56/jekyllblog/gh-pages/assets/coffee.jpg);
 }
 .jumbotron h1,
 .jumbotron .h1 {
