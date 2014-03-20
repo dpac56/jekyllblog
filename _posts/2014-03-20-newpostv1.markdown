@@ -4,7 +4,7 @@ title:  "Post4!"
 date:   2014-03-18 13:02:46
 categories: jekyll update
 ---
-<span id="imageholder"><img id="sample" src="/assets/image4.jpg"></span>
+<span id="imageholder"><img id="sample" src="{{ site.baseurl }}/assets/image4.jpg"></span>
 
 #Some blog post
 
