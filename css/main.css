@@ -1,0 +1,21 @@
+#sample{
+  height: 250px;
+  width: 250px;
+  text-align: center;
+}
+
+#imageholder{
+  text-align: center;
+}
+
+.col-lg-4{
+  margin-bottom: 20px;
+}
+
+#footer {
+  
+  bottom: 0;
+  width: 100%;
+  
+  background-color: #f5f5f5;
+}
